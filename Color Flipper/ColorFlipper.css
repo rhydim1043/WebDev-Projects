@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(241, 233, 233);
+}
+ul{
+    list-style-type:none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+  box-shadow: 2px 2px 2px grey;
+}
+.navright{
+    margin: 0 10%;
+}
+li{
+    display: inline;
+    float: right;
+}
+a{
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  .brand{
+    float: left;
+    margin : 0 10%;
+  }
+  #brand{
+    color:cyan;
+}
+.displayColor{
+    margin-top: 20%;
+    margin-left: 35%;
+    margin-right: 35%;
+    padding: 14px;
+    background-color:white;
+    text-align: center;
+    font-size: larger;
+    border-radius: 5px;
+    color: cyan;
+}
+button{
+    margin-left: 47%;
+    margin-top: 5%;
+}
+#button{
+    background-color: rgb(241, 233, 233);
+    font-size: large;
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: 3px solid cyan;
+    color: cyan;
+}
+#hexcolor{
+    text-transform: uppercase;
+}

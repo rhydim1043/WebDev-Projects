@@ -1,0 +1,16 @@
+#container h1{
+    margin-left : 45%;
+    margin-top: 20%;
+    margin-bottom: 5%;
+}
+#counter{
+    margin-left: 53%;
+    font-size:64px;
+}
+.button{
+    margin-left:30%;
+    margin-top: 5%;
+}
+.btn{
+    margin:0 3%;
+}
